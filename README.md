@@ -119,6 +119,6 @@ Finally, I deleted all the created resources after completing this project to av
 
 ## Project Reflection
 
-This project took me approximately 30-45 minutes to complete. The most challenging part was to troubleshoot the '403 Forbidden' error, and the most rewarding part was to see the website being successfully hosted.
+This project took me approximately 2 hours to complete. The most challenging part was to SSH into the EC2 instance from the terminal and navigate the web app contents, and the most rewarding part was to be able to see the successful SSH connection to my EC2 instance, both over the terminal and via the VSCode extension.
 
 Big thanks to NextWork (https://www.nextwork.org/) for this project! I highly recommend this platform to anyone who wants to learn DevOps concepts and complete more projects like this one. Happy learning!
