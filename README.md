@@ -11,7 +11,11 @@ In this project, I set up a web app in the cloud.
 
 ### Concepts Learnt
 
-- 
+- Key pairs and changing permission settings of .pem files
+- Connecting to EC2 instances via SSH
+- Apache Maven and Amazon Corretto 8, their uses, and their installation on EC2 instances
+- Creating an application using maven archetypes
+- Connecting to EC2 instances via VSCode using the 'Remote - SSH' extension
 
 ### Architecture Diagram
 
